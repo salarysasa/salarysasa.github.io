@@ -66,8 +66,26 @@
 
 .p-old-way {
     color: rgba(187, 19, 51, .6);
+    font-weight: bold;
 }
 
 .p-new-way {
     color:#21a464;
+    font-weight: bold;
+}
+
+.list-old-way {
+    list-style-type: none;
+}
+
+.list-new-way {
+    list-style-type: none;
+}
+
+.icon-circle {
+    color: #d44e77;
+}
+
+.icon-green {
+    color: #21a464;
 }
