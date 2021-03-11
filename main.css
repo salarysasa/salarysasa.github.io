@@ -42,12 +42,12 @@
 }
 
 .problem-section {
-    height: 90vh;
+    height: auto;
     background: #fcfafa;
 }
 
 .fore-header-problem {
-    color: rgba(0, 0, 0, 0.7);
+    color: rgba(43, 6, 74, 0.8);
     font-weight: 600;
 }
 
@@ -57,6 +57,11 @@
 
 .img-new-way {
     width: 35%;
+}
+
+.img-right-arrow {
+    width: 80%;
+    padding-top: 5rem;
 }
 
 .card-old-way {
@@ -88,4 +93,200 @@
 
 .icon-green {
     color: #21a464;
+}
+
+.arrow-container {
+    display: block;
+}
+
+.people-strategy {
+    color: rgba(43, 6, 74, 0.8);
+    font-weight: 600;
+}
+
+.fa-arrow-circle-up {
+    font-size: smaller;
+    color: #21a464;
+    padding-right: .3em;
+}
+
+.header-forty {
+    color: #21a464;
+    font-weight: 600;
+}
+
+.p-forty {
+    color: #21a464;
+    font-weight: 400;
+}
+
+.champions {
+    color: rgba(43, 6, 74, 0.8);
+    font-weight: 600;
+}
+
+.p-onboard {
+    font-weight: 600;
+}
+
+.icon-purple {
+    color: #522a84;
+    font-size: large;
+}
+
+.list-onboarding li {
+    padding: .3em
+}
+
+.onboard-section {
+    background: #fcf8ff;
+    height: auto;
+    padding: 6em;
+}
+
+.strategy-section {
+    height: auto;
+    padding: 3em;
+}
+
+.card-champion {
+    border: none;
+}
+
+.champion-section {
+    padding-bottom: 8em
+}
+
+.fore-technique {
+    height: auto;
+    background: rgba(232, 220, 236, 0.5);
+}
+
+.technique-header {
+    font-weight: 600;
+    color: rgba(43, 6, 74, 0.9);
+}
+
+.card-technique {
+    width: 18rem;
+}
+
+.card-selected {
+    border-color:blueviolet;
+}
+
+.card-technique-header {
+    border-bottom: none;
+    text-align: end;
+    font-size: larger;
+    color: blueviolet;
+}
+
+.okr {
+    width: 76%;
+}
+
+.bsc {
+    width: 60%;
+}
+
+.header-okr {
+    font-weight: 600;
+    color: #522a84;
+}
+
+.header-bsc {
+    font-weight: 600;
+}
+
+.p-technique {
+    font-weight: 600;
+    color: rgba(0, 0, 0, .75);
+}
+
+.p-technique-2 {
+    font-size: smaller;
+}
+
+.cta-section {
+    height: auto;
+    background:rgba(79, 41, 128, 0.9) url("assets/background-pattern.png");
+    padding: 3em;
+}
+
+.cta-header {
+    color: rgba(255, 255, 255, 1);
+    font-family: helvetica;
+    font-weight: 600;
+}
+
+.btn-cta-talk {
+    border-radius: 25px;
+    background: #d50057;
+    border-color: #d50057;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.btn-cta-interest {
+    border-radius: 25px;
+    color: rgba(255, 255, 255, 1);
+    border-color: rgba(255, 255, 255, .7);
+    font-size: 1.1em;
+    font: 600;
+}
+
+.p-cta {
+    color: rgba(255, 255, 255, .8);
+}
+
+.span-cta {
+    font-weight: 600;
+}
+
+.team-section {
+    background: rgb(243, 237, 245);
+}
+
+.team-header {
+    font-weight: 600;
+    color: rgba(43, 6, 74, 0.8);
+}
+
+.img-team {
+    border-radius: 50%;
+}
+
+.card-team {
+    border: none;
+    background: none;
+}
+
+.p-name {
+    font-weight: 600;
+    color: rgba(43, 6, 74, 0.8);
+}
+
+.section-footer {
+    background: rgba(43, 6, 74, 0.9);
+    color: white;
+    padding: 3em;
+}
+
+.p-footer {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.p-footer-seamless {
+    font-weight: 600;
+}
+
+.a-studio {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.a-seamless {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.9);
 }
