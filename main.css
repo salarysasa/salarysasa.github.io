@@ -319,3 +319,7 @@
     background-color: #522a84;
     color: white;
 }
+
+.sharedForm .sharedFormField {
+    margin-top: 0 !important;
+}
